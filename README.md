@@ -1,5 +1,5 @@
-<!-- TOP BACKGROUND -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=200&section=header&text=Husniddin%20Mahmudov&fontSize=35&fontColor=00F7FF&animation=fadeIn"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Husniddin%20Mahmudov&fontSize=35&fontColor=00F7FF&animation=fadeIn"/>
 
 <div align="center">
 
@@ -12,6 +12,10 @@
 ---
 
 ## 🧠 ABOUT
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=120&section=header&text=About%20Me&fontSize=20&fontColor=00F7FF"/>
+</p>
 
 <div align="center">
 
@@ -28,6 +32,10 @@
 ---
 
 ## 🛠 TECH STACK
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:2c5364&height=120&section=header&text=Tech%20Stack&fontSize=20&fontColor=00F7FF"/>
+</p>
 
 <div align="center">
 
@@ -48,6 +56,10 @@
 ---
 
 ## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=120&section=header&text=GitHub%20Stats&fontSize=20&fontColor=00F7FF"/>
+</p>
 
 <div align="center">
 
@@ -99,5 +111,4 @@
 
 ---
 
-<!-- BOTTOM BACKGROUND -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
