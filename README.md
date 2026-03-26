@@ -5,7 +5,7 @@
 
 ### `// FULL STACK DEVELOPER`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=00F7FF&center=true&vCenter=true&width=400&lines=Building+Scalable+Systems;Java+%7C+Spring+Boot;Microservices+Architecture;Building modern UIs with React and Angular" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=00F7FF&center=true&vCenter=true&width=400&lines=Building+Scalable+Systems;Java+%7C+Spring+Boot;Microservices+Architecture;Building+modern+UIs+with+React+and+Angular" />
 
 </div>
 
