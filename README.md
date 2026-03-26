@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=120&section=header&text=Husniddin%20Mahmudov&fontSize=30&fontColor=00F7FF"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=140&section=header&text=Husniddin%20Mahmudov&fontSize=32&fontColor=00F7FF"/>
 
 ### `// FULL STACK DEVELOPER`
 
@@ -10,6 +10,9 @@
 </div>
 
 ---
+
+<!-- BACKGROUND WRAPPER -->
+<div style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 15px;">
 
 ## 🧠 ABOUT
 
@@ -81,6 +84,10 @@
   <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 
+<a href="https://t.me/husniddin301515">
+  <img src="https://img.shields.io/badge/Telegram-0f2027?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+</a>
+
 </div>
 
 ---
@@ -90,5 +97,7 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=husniddinprogrammer&color=00F7FF&style=for-the-badge"/>
+
+</div>
 
 </div>
