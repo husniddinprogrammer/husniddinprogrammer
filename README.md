@@ -1,7 +1,7 @@
-<!-- HEADER -->
-<div align="center">
+<!-- TOP BACKGROUND -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=200&section=header&text=Husniddin%20Mahmudov&fontSize=35&fontColor=00F7FF&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=140&section=header&text=Husniddin%20Mahmudov&fontSize=32&fontColor=00F7FF"/>
+<div align="center">
 
 ### `// FULL STACK DEVELOPER`
 
@@ -10,9 +10,6 @@
 </div>
 
 ---
-
-<!-- BACKGROUND WRAPPER -->
-<div style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 15px;">
 
 ## 🧠 ABOUT
 
@@ -100,4 +97,7 @@
 
 </div>
 
-</div>
+---
+
+<!-- BOTTOM BACKGROUND -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=120&section=footer"/>
