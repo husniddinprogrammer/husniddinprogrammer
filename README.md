@@ -12,7 +12,7 @@
 - 🔭 Working on **CRM systems & scalable backends**
 - 🌱 Learning **System Design & Microservices**
 - 💬 Ask me about **Java, Spring, PostgreSQL, REST API**
-- ⚡ Building modern UIs with **React & Angular**
+- ⚡ Building modern UIs with **React & Angular & NextJs**
 
 ---
 
@@ -21,6 +21,7 @@
 ### 💻 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -54,14 +55,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=husniddinprogrammer&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=husniddinprogrammer&theme=tokyonight&row=1&no-frame=true" />
 </p>
 
 ---
