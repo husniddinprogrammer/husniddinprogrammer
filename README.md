@@ -1,5 +1,5 @@
 # Hi 👋, I'm Husniddin Mahmudov
-### Full Stack Developer | Java | Spring | React | Angular
+### Full Stack Developer | Java | Spring | NodeJs | NextJs | React | Angular
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot;React+%26+Angular;Building+Scalable+Systems" />
